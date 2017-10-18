@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508328640 source:/home/mohamed-galal/Desktop/CProjects/linearBinarySearch/main.c
+	<stdio.h>
+	<stdlib.h>
+
